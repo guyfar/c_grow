@@ -4,7 +4,7 @@
 //
 //  Created by gaoxiaofei on 16/4/17.
 //  Copyright © 2016年 gaoxiaofei. All rights reserved.
-//
+//  功能：加法计算器
 
 #include <stdio.h>
 #include <stdlib.h>
